@@ -14,3 +14,5 @@ git clone https://github.com/toshiiki/foundry-fundme-2023.git
 cd foundry-fund-me-2023
 forge install
 ```
+To run the test suite use ``forge test``
+To run a specific test use ``forge test --match-contract `` followed by the contract name
